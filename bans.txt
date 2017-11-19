@@ -2544,98 +2544,135 @@ bd91a12c6157a7efba604958e78db47d -1 Very stupid Hacker
 4042679f3c66f67894eaae9f69dfb192 -1 divulgando outro server
 4042679f3c66f67894eaae9f69dfb192 -1 Divulgando outros serves!
 ddb192184ad0d9646b8ad8ca57add051 - avacalhando em safezone
-109.156.210.166 -1 Mystic
-173.80.124.105 -1 Scriptkid
-173.80.119.222 -1 Scriptkid
-66.87.94.0 -1 Scriptkid
-66.87.92.80 -1 Scriptkid
-173.80.107.33 -1 Scriptkid
-101.160.152.154 -1 Scriptkid
-101.160.51.166 -1 Scriptkid
-124.180.78.1 -1 Scriptkid
-110.148.164.5 -1 Scriptkid
-93.190.141.112 -1 Came
-73.50.177.216 -1 Scriptkid
-24.4.151.123 -1 Hacker
-91.6.207.15 -1 Hacker
-98.224.122.157 -1 Hacker
-70.116.144.252 -1 Hacker
-72.104.137.51 -1 Hacker
-79.161.160.221 -1 Hacker
-47.55.17.17 -1 Hacker
-47.55.21.228 -1 Hacker
-188.149.131.235 -1 Hacker
-198.50.231.29 -1 Hacker
-70.52.150.100 -1 Hacker
-198.50.246.228 -1 Hacker
-70.125.62.107 -1 Hacker
-111.69.164.6 -1 Hacker
-111.69.141.53 -1 Hacker
-111.69.166.36 -1 Hacker
-58.172.126.217 -1 Hacker
-111.69.166.155 -1 Hacker
-68.227.102.221 -1 Hacker
-111.69.139.245 -1 Hacker
-111.69.161.97 -1 Hacker
-111.69.141.83 -1 Hacker
-71.186.163.205 -1 Hacker
-104.156.251.124 -1 Hacker
-71.94.102.44 -1 Hacker
-99.41.157.248 -1 Hacker
-46.19.143.237 -1 Hacker
-142.4.196.101 -1 Hacker
-162.221.189.62 -1 Hacker
-108.61.229.141 -1 Hacker
-104.193.224.101 -1 Hacker
-104.156.244.169 -1 Hacker
-198.98.49.157 -1 Hacker
-108.61.169.183 -1 Hacker
-162.250.234.233 -1 Hacker
-209.141.34.117 -1 Hacker
-108.61.252.64 -1 Hacker
-74.110.202.99 -1 Hacker
-73.175.15.246 -1 Hacker
-67.215.250.148 -1 Hacker
-108.59.7.245 -1 Hacker
-173.57.101.193 -1 Hacker
-94.2.220.141 -1 Hacker
-2.241.42.236 -1 Hacker
-90.222.115.144 -1 Hacker
-82.25.227.90 -1 Hacker
-124.148.231.49 -1 Hacker
-90.206.94.150 -1 Hacker
-5.64.15.120 -1 Hacker
-176.25.89.2 -1 Hacker
-82.34.80.5 -1 Hacker
-82.27.255.187 -1 Hacker
-86.27.10.245 -1 Hacker
-86.31.198.2 -1 Hacker
-86.23.8.119 -1 Hacker
-90.203.206.37 -1 Hacker
-111.69.140.11 -1 Hacker
-76.31.135.167 -1 Hacker
-85.164.128.244 -1 Hacker
-85.164.1.182 -1 Hacker
-86.144.177.124 -1 Hacker
-81.234.251.226 -1 Hacker
-213.10.178.129 -1 Banned from life
-87.112.210.92 -1 Very stupid Hacker
-87.113.50.40 -1 Very stupid Hacker
-146.200.58.9 -1 Very stupid Hacker
-80.189.197.162 -1 Very stupid Hacker
-80.189.151.142 -1 Very stupid Hacker
-213.162.111.212 -1 Very stupid Hacker
-194.187.250.228 -1 Very stupid Hacker
-194.187.250.203 -1 Very stupid Hacker
-87.112.36.44 -1 Very stupid Hacker
-79.141.163.15 -1 Very stupid Hacker
-46.166.179.59 -1 Very stupid Hacker
-83.216.142.232 -1 Very stupid Hacker
-37.152.215.1 -1 Very stupid Hacker
-88.150.204.154 -1 Very stupid Hacker
-77.245.70.203 -1 Very stupid Hacker
-87.112.15.248 -1 Very stupid Hacker
-86.178.181.45 -1 only BR
-81.155.129.248 -1 Only BR
-146.199.246.25 -1 only BR
-179.34.26.201 -1 Divulgando outros serves!
+4c714b745104e7a271ead947d7eac184 -1 Talk to us on TEAMSPEAK.
+a5cb9017b0c246ef751e6bed594f6306 -1 Money hack
+88298b1b41dcf2df03f809d4639a6742 -1 Lions, Breaking Fed Law, Perm, Crusader67
+f65216dab2dcd377d5bca053f1096d9c -1 Trayvon Hacking Perm Crusader67
+3e68731369ea4675e8d04ed34055aaaf -1 Thorian Hacking Perm Crusader67
+ff411943419fbc15d7c715cd57c14170 -1 Perm.  Money hack.  (hohum)
+1fdb9884b3529ff879ec0128b9ca22fe -1 UnNamed Knowing accepting hacked money
+3fbedab143415f80e2d26f6f335f54aa -1 BEC : GameHack #38
+ec3fbc4bbe35ead18a67a4d456c9a909 -1 Down Syndrome Dora, Hacking, Elemtael, Perm
+c9ee5a51f268616ed1a554f624a731a4 -1 Hacking.  Perm.  hohum.
+e811e838f7e070df49d08cd072a4a9de -1 Rae Sremmurd.  Hacking.  Permanent.  hohum.
+9d08c013e5a9c1ee58705907809c8015 -1 SwiperTheFox.  Hacking.  Perrm.  (hohum)
+8c28e446f98c33569f0884c82af88d1f -1 sweggyswiggty.  Hacking.  Perm.  (hohum)
+f43d09483cb32c947ff705e9e6718aac -1 Killis.  Hacking.  Perm.  (hohum)
+c14dcc03eeff50db6f5ab14c8625f207 -1 DEAD.  Hacking.  Repeat Offender.  Perm.  (hohum)
+f3c8344e309401aa4e042896dd248036 -1 eryk.  Hacking.  Perm.  (hohum)
+c5ef8071883932770d4ad915982eedc1 -1 James Burton.  Hacking.  Ban Evasion.  Repeat Offender (hohum)
+43e755991f9f18b2a3bc602315041ab1 -1 James Burton.  Hacking.  Ban Evasion.  Repeat Offender.  (hohum)
+9f4376ccd658443ed4cae5b9122d86bb -1 Herbeth Ferreira | Permanent: BANIDO DUP
+7dc8054396dcb5c17b4659622ea4f0ab -1 Herbeth Ferreira | Permanent: BANIDO entre ts adrenalife.meuts3.
+878d377b692a52d2bbe7aa4bb4e39de9 -1 Herbeth Ferreira | Permanent: Herbeth Ferreira | Permanent: BANI
+b23de85ef549347b021847814f832ce6 -1 Herbeth Ferreira | Permanent: Herbeth Ferreira | Permanent: BANI
+d2f6997b641b3a130e1cee4ee833b8bc -1 Herbeth Ferreira | Permanent: Herbeth Ferreira | Permanent: BANI
+f1515f70751ca45bffc363e51cbea364 -1 Herbeth Ferreira | Permanent: entra ts  ts3.blackhatlife.com.br
+e7e73f66db70fc6ed9411f1c9c42d873 -1 Herbeth Ferreira | Permanent: BANIDO POR DUP
+e85dbd66706fcba274d0fe6765dd0c59 -1 Herbeth Ferreira | Permanent: BANIDO entre no ts adrenalife.meut
+9a5d38d2c1e33d5843eadd30c6e09c29 -1 Herbeth Ferreira | Permanent: BANIDO entre no ts adrenalife.meut
+48135d77ce9f1eee3c8ab74a024f9bc9 -1 Herbeth Ferreira | Permanent: Herbeth Ferreira | Permanent: entr
+b964a6e3f939f640e602780865ab7feb -1 Herbeth Ferreira | Permanent: Herbeth Ferreira | Permanent: whit
+62d45093ae9c9567c91507872533f90b 1640348602 Admin Ban
+cf5d0be96f9db29e7c8e986e09557460 -1 Herbeth Ferreira | Permanent: Banido Entra ts adrenalife.meuts3.
+29bd0d14c8c9c4b60ee134ec60db9f69 -1 Herbeth Ferreira | Permanent: Banido Entra ts adrenalife.meuts3.
+3d5e97fde2cf407807fe5da4f9b70071 -1 Herbeth Ferreira | Permanent: Banido Entra ts adrenalife.meuts3.
+d851243e0c8ce7c7fdfbe761d37c62ca -1 Herbeth Ferreira | Permanent: Banido Entra ts adrenalife.meuts3.
+3d502d923920a2b1afcee8b732579542 -1 Herbeth Ferreira | Permanent: Banido Entra ts adrenalife.meuts3.
+c11886990573fa8e06b0a68702f008d0 -1 Herbeth Ferreira | Permanent: Banido Entra ts adrenalife.meuts3.
+f0765c72aa5e4abdca1c715c38a67e2e -1 Admin Ban 
+fa33464de7c80f25bc1d0ff89158e179 -1 Herbeth Ferreira | Permanent: entre ts3 ts3.blackhatlife.com.br
+95a07ec10296b0e2dd348fb77ce6ac01 -1 Admin Ban
+55fb4eb3f85b39dda8f6f395dda0840b -1 Admin Ban / ENTRE TS ts3.blackhatlife.com.br
+07561a8062e0bba906bfb9fc2f67aa11 -1 Admin Ban Withe List ts ts3.blackhatlife.com.br
+0afe89a4dfa336397a65710bf2291866 -1 Herbeth Ferreira | Permanent: entre ts ts3.blackhatlife.com.br
+bb15d7447c2c4c34efca17d00654f686 -1 Admin Ban
+0afe89a4dfa336397a65710bf2291866 -1 Admin Ban
+bb15d7447c2c4c34efca17d00654f686 -1 Ban amigo rossi
+bb15d7447c2c4c34efca17d00654f686 -1 amigo rossi
+250fc6bcff680632084649c0e5aa67ea -1 Admin Ban
+fae7413318b3ae04c1340b30fb0e7ff0 -1 Admin Ban
+3d96f230fea96954b0ea7dcbe0600945 -1 Herbeth Ferreira | Permanent: You have been banned
+05cc43b561f16d6ec879baf4f9256b81 -1 Herbeth Ferreira | Permanent: You have been banned
+9e08e8c332f13c2f631283b328ed944f -1 [KombaT] ENTRE TS
+961052e98e504bf30316d73034a1db0e -1 [Herbeth] Admin Ban ENTRE TS ts3.blackhatlife.com.br
+2c62c0684dd5e611c028d4101ff05dca -1 [Herbeth] white list ts ts3.blackhatlife.com.br
+5feb10896e3bd416a36506a51f33672a -1 Admin Ban entre ts3 andrenalife.meuts3.com.br
+c58aca98b3f1983204ff9c62b34fed13 -1 Admin Ban entre ts ts3.blackhatlife.com.br
+553de2f8c86decb6c1085b4369140f8f -1 adrenalifebr | Permanent: DUPANDO
+ef67fe1647d033f3be6bd431334c95e8 -1 adrenalifebr | Permanent: DUPANDO
+18295286ee15df56503fea3f6f8263d9 -1 Marc0- | Permanent: Quebra de regras diversas
+07b7c764a8b76f60742b9af63cadd1be -1 Marc0- | Permanent: Quebra de regras diversas
+db9b3c9c3b1aa2373b793549bbc85ad9 -1 adrenalifebr | Permanent: BANIDO DUP DE BOSTA
+517d0091e3b78af955d7e4352a58cc45 -1 adrenalifebr | Permanent: BANIDO DUP DE BOSTA
+7cd7aec9b9c635cd6d5f526b67ea7ab1 -1 ENTRA NO TS ts3.blackhatlife.com.br
+33ca961f02cbebcea0dc68defd679d81 -1 Admin Ban hack
+cbc683d046c1ce09a48bf1220c5f2475 -1 Admin Ban
+e601730787ab39596e5ecf294427773e -1 Admin Ban enmtre ts ts3.blackhatlife.com.br
+c8896610d01f50bd8f8d06b8ad341bd7 -1 adrenalifebr | Permanent: entre ts ts3.blackhatlife.com.br
+4276e6b337c0c42093f2041e4f2fb136 -1 Admin Ban
+d4570448d3f94376de87e90017cd51f1 -1 Admin Ban
+7a9d2d3e7313b3e9236656adfb5b4dbe -1 Admin Ban
+10b18ec0cecc3f4cbbc84f6b59f089d8 -1 Admin Ban
+253400fdd22a1cd79b222558e57f551e -1 LuKilleR | Permanent: Entra ts: ts3.blackhatlife.com.br
+902e28403e5cad831237d6e41921a2df -1 LuKilleR | Permanent: Entra ts: ts3.blackhatlife.com.br
+c0fa2dca31eebcdfc0f3cc97048bb420 -1 Admin Ban
+00d4d788ea5a58f670d2e5d511215704 -1 Admin Ban
+0eb37d015b3349a999f0641cbc4f98b6 -1 Admin Ban
+c68d64a66ad22f026121a68b5bac6436 -1 Admin Ban
+3d855c3aaf1a6976fb630868c90d8345 -1 Admin Ban
+d3e75f5133ac63ca710c60f4239b65b7 -1 entre no ts 158.69.122.54:12001
+c00ae4364f2e98b654ff47bea2e220c6 -1 Admin Ban
+a627bf3b9525953d330f43427cb0fc69 -1 LuKilleR | Permanent: RDM
+5f0d3f30ef4e0a34deabb8181029b301 -1 Como disse so mais 1
+8deefb7f490e7c7839f0220728d0a6d4 -1 adrenalifebr | Permanent: banido não seguiu o rp
+abcfb918b403e8953e89338967a90e91 -1 adrenalifebr | Permanent: banido não seguiu o rp
+84520cef63ac9fd3de50b33d07eaa6a9 -1 adrenalifebr | Permanent: banido não seguiu o rp
+ee0ecda9c80202409ba4ef9e0b2e07e8 -1 entre no ts
+3cb8eb2f5825770cc415ba31364fa40f -1 entre no ts 158.69.122.54:12001
+d616bd68e8e8e11f5de4ad43ce13cc72 -1 Admin Ban
+ad3e000468d9fee4668a590006b4d260 -1 Dos Santos | Permanent: Vai Usar Hack em outro servidor <3
+44c78db060c06730fddc5ac3d13f270e -1 adrenalifebr | Permanent: BANIDO XINGOU SAMU
+9fe00edf5626abed1b14aae529d50a7a -1 adrenalifebr | Permanent: BANIDO XINGOU SAMU
+fdf2d1f1bd5f128a8cbc5a5af40a3dcc -1 adrenalifebr | Permanent: xingando adm
+d4d165c3bcf1d62f3579abfc2898b46b -1 Admin Ban
+7a69db61d84ead6ffc1b82a0e258917b -1 Admin Ban náo segue o rp!
+8da5bcf9c9cf248a80ff3c0585347ce4 -1 Admin Ban
+dcb4b316acc2fd52f26eae58b268de5a -1 Admin Ban
+6e7c6296c26de7fa7dd08c4ee2522c81 -1 LuKilleR | Permanent: Ban hack
+043cdac9aa07c1be9b8ac2271146a7fe -1 Admin Ban
+37e2c06288b65ad2227288dabde8a58e 1508772590 adrenalifebr | 23.10.2017 13:29: ATROPELANDO SAMU
+8aabc99b1eaa40f04f9b7e23f20f292e 2112472917 Entrar TS pra liberar acesso
+e70c5dc86b3a6025e5398dbef3de4ac2 -1 Admin Ban
+35c97f28f1af4b732790fe470501189e -1 Admin Ban
+c4100a52d63c83ff77fb667cf49d410f -1 LuKilleR | Permanent: Entra ts: ts3.blackhatlife.com.br
+84199bd0352cdddcc86d906f1ff8f4f5 -1 LuKilleR | Permanent: Entra ts: ts3.blackhatlife.com.br
+1620efdeda9600126a893e7aa5a62f4f -1 Admin Ban
+c3d164cc59a829b4e8020d06b5125e1b -1 Admin Ban
+3f5987103f94d7ce0497172eef6858e7 -1 adrenalifebr | Permanent: ENTRE NO TS ts3.blackhatlife.com.br
+c1603eae4de40eb54b2f9c9eab981355 -1 Vitor | Permanent: talk to us on teamspeak
+270f3102e607605444eff4fdaa809b7b -1 Vitor | Permanent: talk to us on teamspeak
+511c8d1e30924fd47e822f48dd284be2 -1 Vitor | Permanent: BANIDO SUSPEITO - entre ts http:
+16b4cee23be1958c4a080528b128274d -1 Vitor | Permanent: BANIDO SUSPEITO - entre ts http:
+f7273e1ed4f975c7218fefde76734d3e -1 Vitor | Permanent: BANIDO SUSPEITO - entre ts http:
+e33e68ed317de59d9437c20ea3384abe -1 Vitor | Permanent: BANIDO SUSPEITO - entre ts http:
+c9880e3b8cfa19b2b18a56eebf7b3627 -1 Vitor | Permanent: BANIDO SUSPEITO - entre ts http:
+afce17c1803912386ab99aa4e98614a6 -1 Vitor | Permanent: BANIDO SUSPEITO - entre ts http:
+ab7a7a04a5b333bee1e9f85082fa1787 -1 Admin Ban DUP DE ARMAS
+cbdb8ffaaa1595aa678984e8d8b891f0 -1 Admin Ban
+468abeb37ce00e5935409294c242dfac -1 Admin Ban ts3.blackhatlife.com.br
+3a41366d379b23e7eed679312dfc668f -1 Admin Ban ts3.blackhatlife.com.br
+62d45093ae9c9567c91507872533f90b -1 Admin Ban Rossi
+4c4300c2b18fa278c62a1bd2c23fe459 -1 Admin Ban Rossi
+05ed28ef4364848ce4ee073bbb97c257 -1 RK Production | Permanent: Admin Ban Rossi
+bb15d7447c2c4c34efca17d00654f686 -1 RK Production | Permanent: Admin Ban Rossi
+cf5d0be96f9db29e7c8e986e09557460 -1 RK Production | Permanent: Admin Ban Rossi
+270f3102e607605444eff4fdaa809b7b -1 RK Production | Permanent: Admin Ban Rossi
+1289b527e82fcf92128e87ce24d8aee4 -1 RK Production | Permanent: entre  ts
+3bde3bef98e78729299af3fb512a33a5 -1 RK Production | Permanent: entre  ts
+c69a19ab2b381a94555774c610c82cf1 -1 RK Production | Permanent: rossi
+a1ec7c60a494979aa15f308f836714a0 -1 RK Production | Permanent: rossi
+6556a025b925caf0c8fe5c12ce7b39a2 -1 RK Production | Permanent: rossi
+8144464b298ed9bb7ceedf7d28c6d4db -1 RK Production | Permanent: rossi
+fa33464de7c80f25bc1d0ff89158e179 -1 Admin Ban ENTRA TS ts3.blackhatlife.com.br
+7dd8e4059c2846b086e9c4667379a533 -1 Herbeth Ferreira | Permanent: rossi
