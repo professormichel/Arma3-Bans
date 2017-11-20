@@ -2675,7 +2675,14 @@ a1ec7c60a494979aa15f308f836714a0 -1 RK Production | Permanent: rossi
 6556a025b925caf0c8fe5c12ce7b39a2 -1 RK Production | Permanent: rossi
 8144464b298ed9bb7ceedf7d28c6d4db -1 RK Production | Permanent: rossi
 fa33464de7c80f25bc1d0ff89158e179 -1 Admin Ban ENTRA TS ts3.blackhatlife.com.br
-7dd8e4059c2846b086e9c4667379a533 -1 Herbeth Ferreira | Permanent: rossi<<<<<<< HEAD
-=======
 7dd8e4059c2846b086e9c4667379a533 -1 Herbeth Ferreira | Permanent: rossi
->>>>>>> 10c2b89e12f933717fc5e8069f7eaf09de5c8b67
+4c2a133f2a346d8d07a64e437fdddb67
+4c2a133f2a346d8d07a64e437fdddb67
+ddb192184ad0d9646b8ad8ca57add051
+0a9d8ca71fa58758f0deae6bb818f49e
+fa413c3b6db114169eb03e0a4bff6879
+4c2a133f2a346d8d07a64e437fdddb67
+1452d2835877f41e3b1974b71257cc42
+ddb192184ad0d9646b8ad8ca57add051
+4c2a133f2a346d8d07a64e437fdddb67
+4c78a123e25d2f8c371d2a8f950cd406
