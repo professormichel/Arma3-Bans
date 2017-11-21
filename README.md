@@ -1,7 +1,7 @@
 # Arma3 Bans
 
 
-https://i.ytimg.com/vi/AizC6YaWVjw/maxresdefault.jpg
+<p><img src="https://i.ytimg.com/vi/AizC6YaWVjw/maxresdefault.jpg" alt="" width="704" height="396" /></p>
 
 Lista de todos usuários banidos da comunidade Brasileira de arma 3.
 
