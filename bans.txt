@@ -2676,18 +2676,117 @@ a1ec7c60a494979aa15f308f836714a0 -1 RK Production | Permanent: rossi
 8144464b298ed9bb7ceedf7d28c6d4db -1 RK Production | Permanent: rossi
 fa33464de7c80f25bc1d0ff89158e179 -1 Admin Ban ENTRA TS ts3.blackhatlife.com.br
 7dd8e4059c2846b086e9c4667379a533 -1 Herbeth Ferreira | Permanent: rossi
-4c2a133f2a346d8d07a64e437fdddb67
-4c2a133f2a346d8d07a64e437fdddb67
-ddb192184ad0d9646b8ad8ca57add051
-0a9d8ca71fa58758f0deae6bb818f49e
-fa413c3b6db114169eb03e0a4bff6879
-4c2a133f2a346d8d07a64e437fdddb67
-1452d2835877f41e3b1974b71257cc42
-ddb192184ad0d9646b8ad8ca57add051
-4c2a133f2a346d8d07a64e437fdddb67
-4c78a123e25d2f8c371d2a8f950cd406
-cbfb6be4686f1254a936eece4c4ce785
-ea1440209e305f4dbf41cc8065dff8ed
-cbfb6be4686f1254a936eece4c4ce785
-0a9d8ca71fa58758f0deae6bb818f49e
-fc18c8902ef5f134c893599bb5b558a2 - 20|11|2017
+4c2a133f2a346d8d07a64e437fdddb67 -1
+4c2a133f2a346d8d07a64e437fdddb67 -1
+ddb192184ad0d9646b8ad8ca57add051 -1
+0a9d8ca71fa58758f0deae6bb818f49e -1
+fa413c3b6db114169eb03e0a4bff6879 -1
+4c2a133f2a346d8d07a64e437fdddb67 -1
+1452d2835877f41e3b1974b71257cc42 -1
+ddb192184ad0d9646b8ad8ca57add051 -1
+4c2a133f2a346d8d07a64e437fdddb67 -1
+4c78a123e25d2f8c371d2a8f950cd406 -1
+cbfb6be4686f1254a936eece4c4ce785 -1
+ea1440209e305f4dbf41cc8065dff8ed -1
+cbfb6be4686f1254a936eece4c4ce785 -1
+0a9d8ca71fa58758f0deae6bb818f49e -1
+fc18c8902ef5f134c893599bb5b558a2 -1 20|11|2017
+e209c26bc71074edeabd38166307ed92 -1 28/11/2017
+0c45e1c66ee044968ac70d99a252fbd8 -1 [Admin] Admin Ban
+d624ff8f629b6b4700f575435cea956d -1 [GhostsBR] Banned by DaRT!
+7cc39f64fcef8a2aef3956206fa4a848 -1 [GhostsBR] HACK
+7cc39f64fcef8a2aef3956206fa4a848 -1 Hacker
+afdeb07ee3363008afb23333bf9c1d3a -1 Foi ban te conhecer
+62d45093ae9c9567c91507872533f90b -1 [GhostsBR] Banned by DaRT!
+4c4300c2b18fa278c62a1bd2c23fe459 -1 [GhostsBR] Banned by DaRT!
+270f3102e607605444eff4fdaa809b7b -1 [GhostsBR] Banned by DaRT!
+62d45093ae9c9567c91507872533f90b -1 [GhostsBR] Banned by DaRT!
+4c4300c2b18fa278c62a1bd2c23fe459 -1 [GhostsBR] Banned by DaRT!
+05ed28ef4364848ce4ee073bbb97c257 -1 [GhostsBR] Banned by DaRT!
+bb15d7447c2c4c34efca17d00654f686 -1 [GhostsBR] Banned by DaRT!
+cf5d0be96f9db29e7c8e986e09557460 -1 [GhostsBR] Banned by DaRT!
+270f3102e607605444eff4fdaa809b7b -1 [GhostsBR] Banned by DaRT!
+c0c5af716ee5665826391d4a0b30accb -1 [GhostsBR] se for br entra ts 158.69.122.54:10000
+181a11797efb84748ac8d7cea15ab0ae -1 [Chuckk] Procura Outro :)
+8b1f4ebd010d7e16294f8c23b87237cf -1 [Chuckk] Procura Outro :)
+500c1a8493a77dd5c279dc54ec9aa4aa -1 [Boninho]  Boninho - Gringo 
+f99bc019bfeaa36ea25f300b2f1a2c9f -1 [GhostsBR] se for br entra ts 158.69.122.54:10000
+4bbf7ce2152a9e70bd47fff00f955ed3 -1 [GhostsBR] se for br entra ts 158.69.122.54:10000
+3da0b8e8d2a2cb23bad5e325a1685b33 -1 [GhostsBR] se for br entra ts: 158.69.122.54:10000
+c4fe681ce715f39b9badf0f7a021df27 -1 [GhostsBR] se for br entra ts 158.69.122.54:10000
+dfd83cb8991245bc8b56f79552df79d4 -1 [GhostsBR] se for br entra ts 158.69.122.54:10000
+6423ac97409f5bec93786f0642b393d3 -1 [GhostsBR] se for br entra ts 158.69.122.54:10000
+c89322a8a5d66aebfb5c2f1c62a35fbe -1 [Admin] Favor entrar TS: 158.69.122.54:10000
+ff5df5437c484c76205e354e41bfee07 -1 [Nexus] Troll - [NEXUS]
+f4e267d68deee3b9525e9b66306b741a -1 [Nexus] Troll - [NEXUS]
+eb64214875c2fca6e0ef3f6008e1165a -1 [Nexus] Favor entrar TeamSpeak
+72e123776d7bad0d771824896d77b7bb -1 [Nexus] No Grigos 
+7fb3fb7dcca395ec40f1f2ff53bb2c58 -1 [Nexus] Favor entrar TS: 158.69.122.54:10000
+f766149dde0d9548b85fed366433b3cb -1 [Cako] Allez-vous prendre vos ânes en français?
+76f296374f60abce200da5ddad7c7a57 -1 [Cako] Allez-vous prendre vos ânes en français
+46a95d431278a27009798fde9d2fd778 -1 [Ademir] Vai dar um role gringo arrombado
+681fc5f99c71726db44cbc6f88dff5b8 -1 [GhostsBR] se for br entra ts 158.69.122.54:10000
+4eae7cbf15d60fa833e5977a5a0fb199 -1 [Ademir] Hacker
+c07b28d92ffc7e5aed0f1d0bb52f5ff7 -1 [Negsus] Sai gringo
+0cc71326d22d09036ceb52532acce97f -1 [DaRT] boninho - hack - jhinn entra ts 158.69.122.54:10000
+862b4676fef84ac14f09461207195a19 -1 [Nexus] RDM - 2 DIAS
+568d3d082f2cb7ea92e400e3a061fc00 -1 [Chuckk] Troll e VDM - Tchau Gringo
+b98552a2bf0ba519de03035ac61e3f80 -1 [Chuckk] Troll e VDM - Tchau Gringo
+e7b1bb960658485ef5e3e0d15beac728 -1 [Chuckk] Troll e VDM - Tchau Gringo
+12f3232b7c12bbc721c1fa186ac94a8c -1 [Nexus] Tchau Gringo
+791aace76965a25375e89fdf36a9429f -1 [GhostsBR] Se for br entra ts: 158.69.122.54:10000 - 10 anos
+df25408491d6107d0f040276929515cd -1 [Nexus] Entra no TS ai rapaz
+aa388bc35e3d931e9fcd0d4a5444a7dc -1 [GhostsBR] Duper - PERMANENTE
+7dd8e4059c2846b086e9c4667379a533 -1 [GhostsBR] Banned by DaRT!
+9d2f5c5a6f0b0140962dea89fc3d6d08 -1 [Nexus] Vai jogar em outro sv
+082ba57ca6ed1c448e88ee3fd343440e -1 [GhostsBR] Duper - PERMANENTE
+7c6bda3403984b0bc7468ab74bf7f69b -1 [GhostsBR] Admin Ban
+f897f8e5f767215fee0343877989bc40 -1 [GhostsBR] Matar na ilha do respawn - PERMANENTE
+f897f8e5f767215fee0343877989bc40 -1 [GhostsBR] Matar na ilha do respawn - PERMANENTE
+5684a4e5c0c8e072abc518b2f66eebb6 -1 [Cako] Abuso,Anti-jogo
+18a465e29e8f8ffeed75a814bcbcc48a -1 [Cako] Suspeita de Dumping entrar TS3:158.69.122.54:10000
+cee2ca55b004a6c306ee0d87a85678f1 -1 [Cako] Suspeita de Dumping entrar TS3:158.69.122.54:10000
+0341a2eaf9995c9142e2e9cbc24edeb9 -1 [Cako] Suspeita de Dumping entrar TS3:158.69.122.54:10000
+a0844ce273a3e5eed1a2210b86a7c7eb -1 [GhostsBR] HACKER - PERMANENTE
+48cb1e8fdefcae5793467f1e8e6eb9c4 -1 [GhostsBR] Babaca - PERMANENTE
+ff9232c3264ee7470314823d827effc5 -1 [GhostsBR] Babaca - PERMANENTE
+8144464b298ed9bb7ceedf7d28c6d4db -1 [Boninho] Boninh - suspeita de hack entra ts 158.69.122.54:10000
+fb1c82e48890e60ef92ab22957f40d2a -1 [Chuckk] Gringo
+ddb192184ad0d9646b8ad8ca57add051 -1 [GhostsBR] RDM + ZOAR NA SAFEZONE + OFENSAS - PERMANENTE
+bb15d7447c2c4c34efca17d00654f686 -1 [GhostsBR] amigo rossi
+62d45093ae9c9567c91507872533f90b -1 [GhostsBR] Admin Ban Rossi
+4c4300c2b18fa278c62a1bd2c23fe459 -1 [GhostsBR] Admin Ban Rossi
+05ed28ef4364848ce4ee073bbb97c257 -1 [GhostsBR] Admin Ban Rossi
+bb15d7447c2c4c34efca17d00654f686 -1 [GhostsBR] Admin Ban Rossi
+cf5d0be96f9db29e7c8e986e09557460 -1 [GhostsBR] Admin Ban Rossi
+270f3102e607605444eff4fdaa809b7b -1 [GhostsBR] Admin Ban Rossi
+7dd8e4059c2846b086e9c4667379a533 -1 [GhostsBR] rossi
+7dd8e4059c2846b086e9c4667379a533 -1 [GhostsBR] rossi
+4c2a133f2a346d8d07a64e437fdddb67 -1 [GhostsBR] RDM + ZOAR EM SAFEZONE + DUPAR - PERMANENTE
+ddb192184ad0d9646b8ad8ca57add051 -1 [GhostsBR] RDM + ZOAR EM SAFEZONE + DUPAR - PERMANENTE
+1452d2835877f41e3b1974b71257cc42 -1 [GhostsBR] RDM + ZOAR EM SAFEZONE + DUPAR - PERMANENTE
+4c2a133f2a346d8d07a64e437fdddb67 -1 [GhostsBR] RDM + ZOAR EM SAFEZONE + DUPAR - PERMANENTE
+fa413c3b6db114169eb03e0a4bff6879 -1 [GhostsBR] RDM + ZOAR EM SAFEZONE + DUPAR - PERMANENTE
+0a9d8ca71fa58758f0deae6bb818f49e -1 [GhostsBR] RDM + ZOAR EM SAFEZONE + DUPAR - PERMANENTE
+ddb192184ad0d9646b8ad8ca57add051 -1 [GhostsBR] RDM + ZOAR EM SAFEZONE + DUPAR - PERMANENTE
+4c2a133f2a346d8d07a64e437fdddb67 -1 [GhostsBR] RDM + ZOAR EM SAFEZONE + DUPAR - PERMANENTE
+4c2a133f2a346d8d07a64e437fdddb67 -1 [GhostsBR] RDM + ZOAR EM SAFEZONE + DUPAR - PERMANENTE
+4c78a123e25d2f8c371d2a8f950cd406 -1 [GhostsBR] DUPER - PERMANENTE
+cbfb6be4686f1254a936eece4c4ce785 -1 [GhostsBR] DUPER - PERMANENTE
+ea1440209e305f4dbf41cc8065dff8ed -1 [GhostsBR] DUPER - PERMANENTE
+cbfb6be4686f1254a936eece4c4ce785 -1 [GhostsBR] DUPER - PERMANENTE
+0a9d8ca71fa58758f0deae6bb818f49e -1 [GhostsBR] DUPER - PERMANENTE
+fc18c8902ef5f134c893599bb5b558a2 -1 [GhostsBR] DUPER - PERMANENTE
+48c4346f3133d141f4926fb40e9d7524 -1 [Chuckk] Power Gaming Perm
+a4acfb344671276d9a62ec17b68f7d7e -1 [Chuckk] Power Gaming Perm
+cbfb6be4686f1254a936eece4c4ce785 -1 [Nexus] DUPE - 126681296 NA CONTA  - NEXUS
+ceb71d9d73947c655c6819297310973a -1 [Chuckk] Combat Log 1 Dia
+d5124065d98c7cf49bdf4ad02e3c31da -1 [Nexus] Sai gringo
+c45e5fcb072f682065bd46b46463bd4d -1 [Nexus] Sai gringo
+dc5daab8300d2e29585889a9030d3cf8 -1 [Nexus] Sai gringo
+e209c26bc71074edeabd38166307ed92 -1 [Dart] Desrespeito a Administrador
+246266e87e72e7ae21bb55d7b4f0e505 -1 [IgorBazuca] IgorBazuca. Kamicaz para evitar prisao de amigo
+f80839f65c4b64eb15c70c2faeb275f7 -1 [IgorBazuca] Hacker
+f6cb3550bc9158a54ed40d082a8016f5 -1 [GhostsBR] /suicide para não ser preso - 10 horas
+df8ed097b0f2f4d180fb12a8ea056913 -1 [IgorBazuca] Roubando em Safe
+a499d4331e48a7d6f4713b10d9f8ed80 -1 [IgorBazuca] Roubando veiculo dentro da safezone
