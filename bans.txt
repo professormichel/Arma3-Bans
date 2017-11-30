@@ -2790,3 +2790,4 @@ f80839f65c4b64eb15c70c2faeb275f7 -1 [IgorBazuca] Hacker
 f6cb3550bc9158a54ed40d082a8016f5 -1 [GhostsBR] /suicide para não ser preso - 10 horas
 df8ed097b0f2f4d180fb12a8ea056913 -1 [IgorBazuca] Roubando em Safe
 a499d4331e48a7d6f4713b10d9f8ed80 -1 [IgorBazuca] Roubando veiculo dentro da safezone
+4daecefddf41b74d19a548ad18d92b7c -1 
